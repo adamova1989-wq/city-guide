@@ -31,7 +31,7 @@ h3 {
 }
 
 .accent {
-  color: #de369d;
+  color:;
 }
 .logo {
   font-size: 28px;
@@ -41,4 +41,18 @@ h3 {
 .hero-label {
   font-size: 16px;
   font-weight: 400;
+}
+
+a {
+  text-decoration: none;
+}
+
+.site-header {
+  padding: 20px;
+  background-color: #ffffff;
+}
+
+.menu a {
+  color: #de369d;
+  margin-right: 20px;
 }
