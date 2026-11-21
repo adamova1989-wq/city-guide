@@ -70,3 +70,28 @@ a {
   border: 2px solid #de369d;
   color: #de369d;
 }
+
+.card {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 20px;
+  border: 1px solid #de369d;
+  border-radius: 12px;
+  background-color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.card-icon {
+  font-size: 40px;
+}
+
+.card h3 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.card-info {
+  font-size: 16px;
+  font-weight: 700;
+  color: #de369d;
+}
