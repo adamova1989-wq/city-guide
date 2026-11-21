@@ -11,3 +11,34 @@ body {
   font-size: 18px;
   line-height: 1.6;
 }
+
+h1,
+h2,
+h3 {
+  color: #de369d;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+.accent {
+  color: #452e4b;
+}
+.logo {
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.hero-label {
+  font-size: 16px;
+  font-weight: 400;
+}
