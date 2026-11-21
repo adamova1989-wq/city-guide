@@ -81,6 +81,11 @@ a {
   margin-bottom: 20px;
 }
 
+.card-top {
+  background-color: #ffdde2;
+  border: 3px solid #de369d;
+}
+
 .card-icon {
   font-size: 40px;
 }
