@@ -2,3 +2,12 @@
    #FFDDE2 фон
    #452E4B текст
    #DE369D акцент */
+
+body {
+  margin: 0;
+  background-color: #ffdde2;
+  color: #452e4b;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 1.6;
+}
