@@ -56,3 +56,17 @@ a {
   color: #de369d;
   margin-right: 20px;
 }
+
+.button {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #de369d;
+  color: #ffffff;
+  border-radius: 8px;
+}
+
+.button-outline {
+  background-color: #ffffff;
+  border: 2px solid #de369d;
+  color: #de369d;
+}
